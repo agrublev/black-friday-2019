@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="381px" height="1323px" viewBox="0 0 381 1323" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Group 26</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing" transform="translate(-475.000000, -2185.000000)">
+            <g id="Group-20" transform="translate(475.000000, 2185.000000)">
+                <g id="Group-26">
+                    <g id="Group-25">
+                        <g id="Group-2">
+                            <polygon id="Rectangle" fill="#45B449" points="0 0 381 0 381 1323 191.743443 1181.6995 0 1323"></polygon>
+                            <text id="Yearly" font-family="Lato-Black, Lato" font-size="100" font-weight="700" fill="#FFFFFF">
+                                <tspan x="43.45" y="200">Yearly</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-19" transform="translate(29.000000, 528.000000)" fill="#FFFFFF">
+                            <text id="Monthly" font-family="Lato-Black, Lato" font-size="81" font-weight="700">
+                                <tspan x="4.3615" y="80">Monthly</tspan>
+                            </text>
+                            <text id="$9.99-user/month" font-family="Lato-Regular, Lato" font-size="100" font-weight="normal">
+                                <tspan x="34.4" y="211">$9.99</tspan>
+                                <tspan x="0.098" y="331" font-size="63">user/month</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="$8.99-user/month" font-family="Lato-Regular, Lato" font-size="100" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="63.4" y="335">$8.99</tspan>
+                        <tspan x="29.098" y="455" font-size="63">user/month</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1828px" height="1118px" viewBox="0 0 1828 1118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>Group 25</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="251" y="646" width="451.100025" height="111.800006" rx="55.9000031"></rect>
+        <filter x="-10.8%" y="-39.8%" width="121.5%" height="186.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="9.1000005" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="15.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0992980072 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing" transform="translate(-495.000000, -5416.000000)">
+            <g id="Group-25" transform="translate(495.000000, 5416.000000)">
+                <rect id="Rectangle" fill="#45B449" transform="translate(723.500000, 7.500000) scale(1, -1) translate(-723.500000, -7.500000) " x="0" y="0" width="1447" height="15"></rect>
+                <g id="Group-22" transform="translate(1447.000000, 0.000000)">
+                    <polygon id="Rectangle" fill="#45B449" points="0 0 381 0 381 1118 191.743443 998.594137 0 1118"></polygon>
+                    <text id="Yearly" font-family="Lato-Black, Lato" font-size="100" font-weight="700" fill="#FFFFFF">
+                        <tspan x="43.45" y="200">Yearly</tspan>
+                    </text>
+                    <g id="Group-19" transform="translate(29.000000, 528.000000)" fill="#FFFFFF">
+                        <text id="Monthly" font-family="Lato-Black, Lato" font-size="81" font-weight="700">
+                            <tspan x="4.3615" y="80">Monthly</tspan>
+                        </text>
+                        <text id="$5.99-user/month" font-family="Lato-Regular, Lato" font-size="100" font-weight="normal">
+                            <tspan x="34.4" y="211">$5.99</tspan>
+                            <tspan x="0.098" y="331" font-size="63">user/month</tspan>
+                        </text>
+                    </g>
+                    <text id="$4.49-user/month" font-family="Lato-Regular, Lato" font-size="100" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="63.4" y="335">$4.49</tspan>
+                        <tspan x="29.098" y="455" font-size="63">user/month</tspan>
+                    </text>
+                </g>
+                <g id="Group-24" transform="translate(247.000000, 143.000000)">
+                    <text id="Business-Plan-34%-OF" font-family="Lato-Regular, Lato" font-size="154" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="19.272" y="152">Business Plan </tspan>
+                        <tspan x="164.4555" y="337" font-family="Lato-Bold, Lato" font-weight="bold">34% OFF      </tspan>
+                    </text>
+                    <text id="Get-our-regular-Busi" font-family="Lato-Regular, Lato" font-size="48" font-weight="normal" line-spacing="61" fill="#4C4C4C">
+                        <tspan x="82.368" y="472">Get our regular Business Plan with a </tspan>
+                        <tspan x="264.528" y="533">fantastic discount!</tspan>
+                    </text>
+                    <g id="Rectangle-9">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <rect stroke="#CD1D5F" stroke-width="9.1000005" stroke-linejoin="square" x="255.55" y="650.55" width="442.000024" height="102.700006" rx="51.3500028"></rect>
+                    </g>
+                    <text id="Get-it-soon!" fill="#FFFFFF" font-family="Helvetica" font-size="46.4099998" font-weight="normal">
+                        <tspan x="357.884991" y="718.300002">Get it soon!</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

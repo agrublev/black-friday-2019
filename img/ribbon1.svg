@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="1095px" viewBox="0 0 256 1095" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing" transform="translate(-2056.000000, -927.000000)">
+            <g id="Group-15" transform="translate(485.000000, 927.000000)">
+                <g id="Group-14" transform="translate(1571.000000, 0.000000)">
+                    <polygon id="Rectangle" fill="#EA2633" points="0 0 256 0 256 1095 128.835489 910.21875 0 1095"></polygon>
+                    <g id="Group-7" transform="translate(29.000000, 64.000000)" fill="#FFFFFF" font-family="Lato-Black, Lato" font-size="100" font-weight="700">
+                        <text id="78%-OFF">
+                            <tspan x="0.1" y="99">78%</tspan>
+                            <tspan x="2.5" y="219" font-family="Lato-Regular, Lato" font-weight="normal">OFF</tspan>
+                        </text>
+                        <text id="78%-OFF" opacity="0.186965216">
+                            <tspan x="0.1" y="377">78%</tspan>
+                            <tspan x="2.5" y="497" font-family="Lato-Regular, Lato" font-weight="normal">OFF</tspan>
+                        </text>
+                        <text id="78%-OFF" opacity="0.0563383557">
+                            <tspan x="0.1" y="682">78%</tspan>
+                            <tspan x="2.5" y="802" font-family="Lato-Regular, Lato" font-weight="normal">OFF</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

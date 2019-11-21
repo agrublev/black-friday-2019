@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1837px" height="1323px" viewBox="0 0 1837 1323" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>Group 20</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="451.100025" height="111.800006" rx="55.9000031"></rect>
+        <filter x="-10.8%" y="-39.8%" width="121.5%" height="186.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="9.1000005" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="4" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="15.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0992980072 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing" transform="translate(-486.000000, -3924.000000)">
+            <g id="Group-20" transform="translate(486.000000, 3924.000000)">
+                <rect id="Rectangle" fill="#45B449" transform="translate(1109.000000, 7.500000) scale(1, -1) translate(-1109.000000, -7.500000) " x="381" y="0" width="1456" height="15"></rect>
+                <polygon id="Rectangle" fill="#45B449" points="0 0 381 0 381 1323 191.743443 1181.6995 0 1323"></polygon>
+                <text id="Yearly" font-family="Lato-Black, Lato" font-size="100" font-weight="700" fill="#FFFFFF">
+                    <tspan x="43.45" y="200">Yearly</tspan>
+                </text>
+                <g id="Group-19" transform="translate(29.000000, 528.000000)" fill="#FFFFFF">
+                    <text id="Monthly" font-family="Lato-Black, Lato" font-size="81" font-weight="700">
+                        <tspan x="4.3615" y="80">Monthly</tspan>
+                    </text>
+                    <text id="$9.99-user/month" font-family="Lato-Regular, Lato" font-size="100" font-weight="normal">
+                        <tspan x="34.4" y="211">$9.99</tspan>
+                        <tspan x="0.098" y="331" font-size="63">user/month</tspan>
+                    </text>
+                </g>
+                <text id="$8.99-user/month" font-family="Lato-Regular, Lato" font-size="100" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="63.4" y="335">$8.99</tspan>
+                    <tspan x="29.098" y="455" font-size="63">user/month</tspan>
+                </text>
+                <g id="Group-23" transform="translate(475.000000, 68.000000)">
+                    <text id="Business-Premium-Pla" font-family="Lato-Regular, Lato" font-size="125" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="0.1875" y="123">Business Premium Plan</tspan>
+                    </text>
+                    <text id="A-brand-new-Business" font-family="Lato-Regular, Lato" font-size="48" font-weight="normal" line-spacing="61" fill="#4C4C4C">
+                        <tspan x="102.752" y="208">A brand new Business plan that includes Enterprise </tspan>
+                        <tspan x="167.408" y="269">Only features only available for Black Friday!</tspan>
+                    </text>
+                    <g id="Group-18" transform="translate(0.000000, 420.000000)">
+                        <g id="Group-17" transform="translate(1.000000, 0.000000)">
+                            <text id="Add-cutting-edge-sec" font-family="Lato-Regular, Lato" font-size="31" font-weight="normal" line-spacing="51" fill="#4C4C4C">
+                                <tspan x="61.479601" y="101.7398">Add cutting edge security to your system by utilizing a secretly generated </tspan>
+                                <tspan x="61.479601" y="152.7398">code to login that changes every 30 seconds!</tspan>
+                            </text>
+                            <path d="M21.6395396,27.7414992 L1.89804038,8 L-1.13686838e-13,9.89804038 L18.792479,28.6905194 L-1.13686838e-13,47.4829985 L1.89804038,49.3810388 L21.6395396,29.6395396 C22.1643867,29.1146925 22.1643867,28.2663463 21.6395396,27.7414992 Z" id="Fill-1" fill="#EA1E6A"></path>
+                            <path d="M12.6365998,8 L10.7385595,9.89804038 L29.5310385,28.6905194 L10.7385595,47.4829985 L12.6365998,49.3810388 L32.3780991,29.6395396 C32.9029462,29.1146925 32.9029462,28.2663463 32.3780991,27.7414992 L12.6365998,8 Z" id="Fill-3" fill="#EF8F23"></path>
+                            <text id="Two-Factor-Authentic" font-family="Lato-Regular, Lato" font-size="47" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="61.7398005" y="46.7398005">Two-Factor Authentication</tspan>
+                            </text>
+                        </g>
+                        <g id="double-arrow-right" transform="translate(1.000000, 22.000000)"></g>
+                        <g id="Group-16" transform="translate(0.000000, 199.000000)">
+                            <text id="Take-Project’s-to-th" font-family="Lato-Bold, Lato" font-size="31" font-weight="bold" line-spacing="51" fill="#4C4C4C">
+                                <tspan x="61.7398005" y="101">Take Project’s to the next level by adding status updates, setting a delivery </tspan>
+                                <tspan x="61.7398005" y="152">date, and generating in-depth reports.</tspan>
+                            </text>
+                            <path d="M21.6395396,27.0016988 L1.89804038,7.26019952 L3.90798505e-14,9.1582399 L18.792479,27.9507189 L3.90798505e-14,46.743198 L1.89804038,48.6412384 L21.6395396,28.8997391 C22.1643867,28.374892 22.1643867,27.5265458 21.6395396,27.0016988 Z" id="Fill-1" fill="#EA1E6A"></path>
+                            <path d="M12.6365998,7.26019952 L10.7385595,9.1582399 L29.5310385,27.9507189 L10.7385595,46.743198 L12.6365998,48.6412384 L32.3780991,28.8997391 C32.9029462,28.374892 32.9029462,27.5265458 32.3780991,27.0016988 L12.6365998,7.26019952 Z" id="Fill-3" fill="#EF8F23"></path>
+                            <text id="Project-Overview" font-family="Lato-Bold, Lato" font-size="47" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="61.7398005" y="46">Project Overview</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-16" transform="translate(0.000000, 397.000000)">
+                            <text id="Make-Freedcamp-truly" font-family="Lato-Bold, Lato" font-size="31" font-weight="bold" line-spacing="51" fill="#4C4C4C">
+                                <tspan x="61.7398005" y="101">Make Freedcamp truly yours! Customize the sytem with your company's </tspan>
+                                <tspan x="61.7398005" y="152">branding.</tspan>
+                            </text>
+                            <path d="M21.6395396,27.0016988 L1.89804038,7.26019952 L3.90798505e-14,9.1582399 L18.792479,27.9507189 L3.90798505e-14,46.743198 L1.89804038,48.6412384 L21.6395396,28.8997391 C22.1643867,28.374892 22.1643867,27.5265458 21.6395396,27.0016988 Z" id="Fill-1" fill="#EA1E6A"></path>
+                            <path d="M12.6365998,7.26019952 L10.7385595,9.1582399 L29.5310385,27.9507189 L10.7385595,46.743198 L12.6365998,48.6412384 L32.3780991,28.8997391 C32.9029462,28.374892 32.9029462,27.5265458 32.3780991,27.0016988 L12.6365998,7.26019952 Z" id="Fill-3" fill="#EF8F23"></path>
+                            <text id="White-Label" font-family="Lato-Bold, Lato" font-size="47" font-weight="bold" fill="#FFFFFF">
+                                <tspan x="61.7398005" y="46">White Label</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="Includes:" font-family="Lato-Bold, Lato" font-size="55" font-weight="bold" fill="#CD1D5F">
+                        <tspan x="0.34875" y="382">Includes:</tspan>
+                    </text>
+                    <g id="Group" transform="translate(328.000000, 1075.000000)">
+                        <g id="Rectangle-9">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <rect stroke="#CD1D5F" stroke-width="9.1000005" stroke-linejoin="square" x="4.55000025" y="4.55000025" width="442.000024" height="102.700006" rx="51.3500028"></rect>
+                        </g>
+                        <text id="Get-it-soon!" fill="#FFFFFF" font-family="Helvetica" font-size="46.4099998" font-weight="normal">
+                            <tspan x="106.884991" y="72.3000015">Get it soon!</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
